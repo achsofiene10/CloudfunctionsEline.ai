@@ -10,17 +10,17 @@ firebase.initializeApp({
   serviceAccount:{
     
   "type": "service_account",
-  "project_id": "elineproject-f3d17",
-  "private_key_id": "e8c7d72be82ef730df4382a03226c2514c6cc01f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeufDLiIyj0O9+\nNOl6yzZHA6p0jSo9oXwjhLCRNv38IB+w4UibBUtnYK/Zw7R1TOqIAzzXVl07/qcX\n3Bb5CEiGgCxc9DYzt5At+TwG3BfxLKefuzv+Ml3qPVfHzBAVO/ojBQdIrAb4GNjc\nNvoLLEVWP+Akf9/ESC3TU8OTgpPzIYx33nHf3aaQM5S8iFVJ6rKlJ07PtQEGSiRl\n8dvzBkds0TUnJuxURooKwj9NepvHA0JHUPlxM1id1kbjVSoTBkok6VJCD++hP3dP\nSsL/xa5Z63NV23cTM25tK+SUDJvGKwGdW1m2IsEwflQCtufPvPGk50Z/B0bDwmR0\nb781KsQLAgMBAAECggEAEZlXSBH3WhCIBWvTeXB/r6cJ5stiJBw8GeoT873vsl1T\ndja8aKfRIQC47sHCyADDvlnxjITAaK8HEt+t0mXnOLaMdLAFNH3FaDuKus37f5uu\naEkH0Vr/S8IKchY/sEMKrIhZsuaUDT0gCma0GboKZBJIBXQCOQ6xug0/EaN4SQxB\n3pFTi/bI24g9E2xBYGUJlF5DIvAr/xun92Mmf80pE4INJjOt7GEU8463szaf8p2E\nDMAa3FZFDP2zHIlShbvvsQBJ2Vsj5b0orAuXoLV9FEHhJayZsN1hkzZge8v2jW08\nPv7r9FDY2NLjXWXcG+R358JRoPy8P4DXGL7eG3H9hQKBgQDa/lSuHrnhvr/JNgn5\noW2QQPEBF1sfqnHHr8IkaPLyl8A/tw4Y2tygP/7AVE8Ebwi5Ucy5FRSsVi+waPV7\n0YBxkcxlQgI4K9juuh7Spl6hEoxcQSu1ZV32SWM22VqUQJj515r4EiplSv+0UXEv\nB+RFUDnNMH9vZvdb+JN5QVqc/QKBgQC5jHMpFXOSSXXjLT5woedfLzbC7H+dNrmM\n/jpcRv3c5yKD890kSksOvltPsmYn2W7k+Ip7tQS/XY4ZZxHodEX58JjRZGy5NO1l\n0inRpzRK7ESHrK2qRRMNwk3A8POmoASlR0TvyS4h0EKaQcdQ0z2Y26v2gQUukPvF\nQvuLkuQ3pwKBgQDF9xu9u3D1rWXaEsu5qkBNIye6gM6TNZVdmni6SVU2EBBuiKBp\nv4+qHa/BVXWI4IbWYCfdOD1T/SVnJ7qij6S5Bb/r2VwAQ0L7q6ypaFQq74WK8C7+\n7/+c4IKb1qiXVD31vP4OOv2wS7gT3XuftFaaggd+gdTxc/cwYOmPt5CeUQKBgCM5\nF09wRA08JsXme9jz0zFNjC66qIsWrWinhjqoO17o/bNg4tUVyWPWHQ1nB19/Nj7/\nM4LCXVFamDQYTdz73aDR3KC7WKxb8MkIeWnUPOgQK/45eIo/LJvLC+mZlBdIfzlE\n60A9x6UhnNMds5GTWDkhUmasHWi2myTaT1gynWI3AoGAOkn+lPNsaaDqYoXUyfKI\nm8oklWnZKJZxF4tHGFDQaC9SMqSs2YPGTvhnU9Dn/ECKYUr20IEsykGtTZtcEkzK\nbPGjUMovqcqpnIgQvRdtAWqtew0lUbWCTfKQw1xKjmxcCsyk5G+w+pyy9FgnGl4c\nt4/stDNDxHs8NaLtf87uogE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-vc55i@elineproject-f3d17.iam.gserviceaccount.com",
-  "client_id": "107473573193269935431",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vc55i%40elineproject-f3d17.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 },
-  databaseURL: "https://elineproject-f3d17.firebaseio.com"
+  databaseURL: ""
 });
 var db = firebase.database();
 
